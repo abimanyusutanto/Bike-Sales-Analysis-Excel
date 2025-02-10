@@ -2,14 +2,12 @@
 
 ## Project Overview
 
-This project focuses on analyzing bike sales data to identify key trends and insights using Microsoft Excel. I will clean and preprocess the dataset to ensure data accuracy and consistency before creating meaningful visualizations. The dataset includes various demographic and economic factors that may influence bike purchasing behavior.
+This project focuses on analyzing bike sales data to identify key trends and insights using Microsoft Excel. I will clean and preprocess the dataset to ensure data accuracy and consistency before creating meaningful visualizations. The dataset includes various demographic and economic factors that may influence bike purchasing behavior. Information about the dataset used can be seen [here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
 ## Objectives
 
 -  Clean and preprocess raw sales data in Excel.
 -  Create meaningful visualizations to understand patterns in bike sales.
-
-Information about the dataset used can be seen [here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
 ## Data Processing
 
